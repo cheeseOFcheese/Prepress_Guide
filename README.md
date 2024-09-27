@@ -8,7 +8,7 @@ This guide contains detailed instructions for preparing files for prepress and 3
 
 ## File Structure / Структура файлов
 
-1. **File Package Requirements / Требования к файлам пакетов**  
+1. **File Package Requirements / Требования к файлам макетов**  
    [English](./File%20Package_requirements.md) | [Русский](./Требования_к_3D)
 
 2. **Types of Materials / Виды материалов**  
