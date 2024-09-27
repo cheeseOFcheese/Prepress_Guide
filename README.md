@@ -37,3 +37,5 @@ Each section provides detailed information on the respective topic for better un
 
 Каждый раздел содержит подробную информацию по соответствующей теме для лучшего понимания требований предпечатной подготовки.
 
+**[Ссылка на скрипты для предпечатной подготовки](https://github.com/cheeseOFcheese/Prepress_Illustrator-and-Photoshop)**
+
