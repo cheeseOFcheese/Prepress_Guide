@@ -1,0 +1,82 @@
+# Differences Between Raster and Vector Images
+
+## What is a Raster Image?
+
+A **raster image** is an image composed of a grid of pixels, where each pixel has a specific color. These images are commonly used for photography and images with a lot of detail.
+
+### Examples of formats:
+- **JPEG**
+- **PNG**
+- **GIF**
+- **TIFF**
+- **BMP**
+
+### Useful links:
+- [JPEG vs PNG — Which is Better?](https://www.diffen.com/difference/JPEG_vs_PNG) — A comparison of JPEG and PNG formats, their uses, and advantages.
+- [How GIF Works](https://www.computerhope.com/jargon/g/gif.htm) — An article about GIF animation and its features.
+
+### Advantages of raster images:
+
+1. **Support for detailed images**: Raster images are great for photos where every little detail matters.
+2. **Wide support**: Raster formats are supported by virtually all graphic editors and devices.
+3. **Natural color transitions**: Raster graphics can easily display smooth color transitions, shadows, and highlights.
+
+### Disadvantages of raster images:
+
+1. **Loss of quality when scaling**: When a raster image is enlarged, it becomes "blurry" because it's made of pixels. The more the image is stretched, the more noticeable the pixels become (pixelation effect).
+2. **Large file sizes**: Due to the amount of data stored in each pixel, high-quality raster images can take up a lot of disk space.
+3. **Limited editing**: Working with individual elements of an image is difficult, as the entire image consists of fixed pixels.
+
+## What is a Vector Image?
+
+A **vector image** is an image created using mathematical formulas such as lines, curves, and geometric shapes. Vector graphics are ideal for logos, icons, and illustrations where clarity of lines and scalability are important.
+
+### Examples of formats:
+- **SVG**
+- **AI**
+- **EPS**
+- **PDF (vector format)**
+
+### Useful links:
+- [What is SVG?](https://developer.mozilla.org/en/docs/Web/SVG) — Description and examples of using SVG on MDN.
+
+### Advantages of vector images:
+
+1. **Scalability without loss of quality**: Vector images can be resized to any scale without losing quality, making them perfect for large format printing or digital use.
+2. **Smaller file size**: Vector images generally take up less disk space compared to raster images because they are based on formulas, not pixels.
+3. **Ease of editing**: Each element of the image is a separate object, making it easy to modify its shape, size, color, and other parameters.
+
+### Disadvantages of vector images:
+
+1. **Limited detail**: Vector images are not suitable for photographs or complex textures, as they consist of simple shapes. For instance, detailed images like landscapes or portraits are better saved in raster format.
+2. **Not supported by all programs**: Although major graphic editors support vector formats, vector files may not open in simple image viewing programs.
+
+### Useful links:
+- [How Vector Images Work](https://www.vectornator.io/blog/what-is-vector-art) — A detailed explanation of how vector images work.
+
+## Main Differences Between Raster and Vector Graphics:
+
+| Criterion                  | Raster Image                              | Vector Image                                  |
+|----------------------------|-------------------------------------------|-----------------------------------------------|
+| **Basic principle**         | Pixel grid                                | Mathematical formulas                         |
+| **Quality when scaling**    | Loss of quality, pixelation               | Scalable without loss of quality              |
+| **File formats**            | JPEG, PNG, GIF, TIFF                      | SVG, AI, EPS, PDF                             |
+| **File size**               | Usually larger                           | Usually smaller                              |
+| **Usage**                   | Photos, complex images                    | Logos, illustrations, icons                   |
+| **Program support**         | Supported by all devices                  | Supported mainly by graphic editors           |
+
+## When to Choose a Raster Image:
+
+- If you need to save a photo or an image with lots of colors and details.
+- When texture rendering and smooth color transitions are essential.
+- For web content where broad device and browser support is required.
+
+## When to Choose a Vector Image:
+
+- For logos, icons, and other graphics that need to scale without losing quality.
+- For print materials such as business cards, banners, where sharpness is crucial.
+- For illustrations, diagrams, and charts.
+
+---
+
+In conclusion, raster graphics are better suited for detailed images and photos, while vector graphics are ideal for objects that need perfect scalability and minimal file size. The choice between raster and vector depends on the task and the required image quality.
