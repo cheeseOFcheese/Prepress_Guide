@@ -2,20 +2,21 @@
 
 ## Overview / Общая информация
 
-This guide contains detailed instructions for preparing files for prepress and 3D models. Please refer to the sections below for more information.
+This guide provides detailed instructions for preparing prepress layouts and 3D models. Please refer to the sections below for specific guidelines.
 
-Этот гид содержит подробные инструкции по подготовке файлов для предпечатной подготовки и 3D моделей. Ознакомьтесь с разделами ниже для получения дополнительной информации.
+Этот гид содержит подробные инструкции по подготовке макетов для предпечатной подготовки и 3D моделей. Ознакомьтесь с разделами ниже для получения конкретных рекомендаций.
 
 ## File Structure / Структура файлов
 
-1. **File Package Requirements / Требования к файлам макетов**  
-   [English](./File%20Package_requirements.md) | [Русский](./Требования_к_3D)
+1. **General File Layout Requirements / Общие требования к макетам файлов**  
+   [English](./File%20Package_requirements.md) [Русский](./Требования_к_макетам_файлов.md)
 
-2. **Types of Materials / Виды материалов**  
+2. **3D Model Requirements / Требования к 3D моделям**  
+   [Русский](./Требования_к_3D)
+
+3. **Types of Materials / Виды материалов**  
    [English](./Types_of_materials.md) | [Русский](./Виды%20материалов.md)
 
-3. **General File Layout Requirements / Общие требования к макетам файлов**  
-   [Русский](./Требования_к_макетам_файлов.md)
 
 ## Notes / Примечания
 
