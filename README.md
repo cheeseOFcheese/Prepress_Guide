@@ -25,4 +25,4 @@ This guide provides detailed instructions for preparing prepress layouts and 3D 
 Each section provides detailed information on the respective topic for better understanding of prepress requirements.
 
 Каждый раздел содержит подробную информацию по соответствующей теме для лучшего понимания требований предпечатной подготовки.
-"""
+
