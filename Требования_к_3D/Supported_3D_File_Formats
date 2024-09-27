@@ -1,0 +1,63 @@
+# Supported 3D File Formats
+
+For more details, refer to the following articles:
+- [Sketchfab Supported 3D File Formats](https://help.sketchfab.com/hc/en-us/articles/202508396-Supported-3D-File-Formats)
+- [Model Upload Guidelines (3ddd.ru)](https://3ddd.ru/blog/post/pravila_zagruzki_modelei)
+
+## 1. Archives
+- Only archives with the extensions `.rar`* and `.zip` are accepted.
+- The `.rar` version must not be higher than 4.2. Archives like 7.ZIP, 5RAR, etc., are not accepted.
+- The maximum allowed archive size is 150 MB.
+
+The archive must include:
+1. A 3ds Max file.
+2. Textures (must be placed in one folder).
+3. An export file in `.fbx` or `.obj` (if the `.fbx` format does not support certain materials).
+4. A material library (optional).
+5. A `MAXFILES.TXT` file (please do not delete it).
+6. Do not delete the `.mtl` file if you export in `.obj` format.
+
+It is recommended not to include the model preview in the archive to prevent unwanted sharing (especially on social networks, where previews without the 3ddd or 3dsky logo lose their copyright protection).
+
+## 2. 3ds Max File Versions
+- Models saved in versions higher than 2015 are not accepted.
+- The 3ds Max file must be saved in the lowest possible version. For example, if you are using the 2018 version, the 3ds Max file should be saved in version 2015 or lower.
+
+## 3. Software Used for Model Moderation
+- All export files are checked in 3ds Max 2010. Files with Corona materials are checked in 3ds Max 2013.
+
+## 4. Third-Party Plugins
+- Any third-party plugins, even free ones, are not allowed for models that aspire to have paid status.
+
+Example:
+- **Complex Fresnel**, **Bercon Noise**, **Siger Noise**, **Siger Scratches** — if your model uses these plugins, it will only be available as "Free." Buyers should not have to search for and install plugins just to use your model.
+
+## 5. Preparing 3ds Max and Export Files Before Upload
+1. Remove all light sources.
+2. Convert all geometry to polygons.
+3. Collapse modifier stacks and ungroup objects.
+4. Perform `resetxform`.
+5. Ensure that texture paths do not contain Cyrillic characters.
+6. The model should be placed at zero coordinates, with the unit of measurement set to millimeters.
+
+## 6. VRAY and CORONA Engine Versions
+- If your VRAY version is higher than 3.1, add this to the description:
+  _"For those working with V-Ray versions below 3.1, please note that materials use BRDF Microfaset GTR (GGX). If your version is older than 3.1, choose Blinn, Phong, or Ward as your preference."_
+
+- If the CORONA version is higher than 1.4, include this:
+  _"For Corona render, it's recommended to use version 1.5 or higher, as materials are set up considering PBR."_
+
+## 7. Sets of Many Models from Different Categories
+- Scenes with a large number of objects (e.g., flowers, vases, lamps) in one file are not accepted. Split the scene into multiple archives, each containing no more than five objects.
+
+## 8. Texture Paths and Cyrillic Characters
+- All names for materials, textures, model elements, and folder paths must be in English. Cyrillic characters in paths are not allowed.
+
+## 9. Preview
+- The main preview should be square, with a minimum size of 640x640 px.
+- The maximum file size for the preview is 1 MB.
+- Product logos are not allowed in the preview.
+- The main preview should be clear and informative, with a solid background.
+
+## 10. Correct Normals and Proper Mesh
+- The mesh must consist of rectangular and triangular polygons, without coplanar faces or flipped normals.
