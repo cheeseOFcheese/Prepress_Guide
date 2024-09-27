@@ -2,9 +2,9 @@
 
 ## Overview / Общая информация
 
-This guide provides detailed instructions for preparing prepress layouts and 3D models. Please refer to the sections below for specific guidelines.
+This guide provides detailed instructions for preparing prepress layouts. Please refer to the sections below for specific guidelines.
 
-Этот гид содержит подробные инструкции по подготовке макетов для предпечатной подготовки и 3D моделей. Ознакомьтесь с разделами ниже для получения конкретных рекомендаций.
+Этот гид содержит подробные инструкции по подготовке макетов для предпечатной подготовки. Ознакомьтесь с разделами ниже для получения конкретных рекомендаций.
 
 ## File Structure / Структура файлов
 
