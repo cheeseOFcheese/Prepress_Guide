@@ -14,8 +14,8 @@ This guide provides detailed instructions for preparing prepress layouts and 3D 
  001 **[Types of Materials (English)](000_Types_of_materials.md)**
  001 **[Виды материалов (Russian)](000_Виды_материалов.md)**
 
- 002**[Spot Colors (English)](002_Spot_Colors.md)**
- 002**[Плашечные цвета (Russian)](002_Плашечные_цвета.md)**
+ 002 **[Spot Colors (English)](002_Spot_Colors.md)**
+ 002 **[Плашечные цвета (Russian)](002_Плашечные_цвета.md)**
 
  003 **[Differences Between Raster and Vector Images (English)](003_Differences_Between_Raster_and_Vector_Images)**
  003 **[Различия между растровыми и векторными изображениями (Russian)](003_Различия_между_растровыми_и_векторными_изображениями.md)**
