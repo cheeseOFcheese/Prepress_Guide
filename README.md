@@ -9,7 +9,7 @@ This guide provides detailed instructions for preparing prepress layouts and 3D 
 ## File Structure / Структура файлов
 
 1. **General File Layout Requirements / Общие требования к макетам файлов**  
-   [English](./File%20Package_requirements.md) [Русский](./Требования_к_макетам_файлов.md)
+   [English](./File%20Package_requirements.md) | [Русский](./Требования_к_макетам_файлов.md)
 
 2. **3D Model Requirements / Требования к 3D моделям**  
    [Русский](./Требования_к_3D)
