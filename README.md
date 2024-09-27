@@ -36,5 +36,5 @@ This guide provides detailed instructions for preparing prepress layouts. No mat
 ---
 
 🔗 **[Link to Prepress Scripts for Illustrator and Photoshop](https://github.com/cheeseOFcheese/Prepress_Illustrator-and-Photoshop)**  
-**Ссылка на скрипты для предпечатной подготовки**
+**[Ссылка на скрипты для предпечатной подготовки](https://github.com/cheeseOFcheese/Prepress_Illustrator-and-Photoshop)**  
 ---
