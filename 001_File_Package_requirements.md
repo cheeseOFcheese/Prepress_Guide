@@ -3,7 +3,7 @@
 All submitted files must be in the **CMYK** color space.  
 Accepted formats: **TIFF**, **AI**, **CDR**, **SVG**.  
 Allowed formats: **PSD**, **PDF**.  
-A preview file in **.JPG** must be attached for review.
+A preview file in **.JPG** must be attached for review. The size is not more than 1000 pixels on the long side.
 
 ## Requirements for Raster Files:
 - Size: 1:1
